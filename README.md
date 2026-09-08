@@ -86,27 +86,15 @@ Open to conversations about agentic system design, GCP Cloud Run, and inference 
 
 **Languages**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,kotlin,php,html,css&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,kotlin,php,html,css&theme=light" />
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,kotlin,php,html,css&theme=dark" alt="Languages" />
-</picture>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,kotlin,php,html,css&theme=dark" alt="Languages" />
 
 **Frameworks & Libraries**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,fastapi,flask,tensorflow,tailwind&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,fastapi,flask,tensorflow,tailwind&theme=light" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,fastapi,flask,tensorflow,tailwind&theme=dark" alt="Frameworks" />
-</picture>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,fastapi,flask,tensorflow,tailwind&theme=dark" alt="Frameworks" />
 
 **Cloud, DevOps & Data**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gcp,aws,azure,docker,firebase,mysql,postgres,git,github,linux&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=gcp,aws,azure,docker,firebase,mysql,postgres,git,github,linux&theme=light" />
-  <img src="https://skillicons.dev/icons?i=gcp,aws,azure,docker,firebase,mysql,postgres,git,github,linux&theme=dark" alt="Cloud and data" />
-</picture>
+<img src="https://skillicons.dev/icons?i=gcp,aws,azure,docker,firebase,mysql,postgres,git,github,linux&theme=dark" alt="Cloud and data" />
 
 <br />
 
@@ -127,13 +115,13 @@ Open to conversations about agentic system design, GCP Cloud Run, and inference 
 
 ## Featured Projects
 
-| Project | Description | Stack | Activity |
+| Project | Description | Stack | Last Commit |
 |---|---|---|---|
-| **[VisionAI](https://github.com/Pratham-Dusane/VisionAI)** | Distributed ML observability platform on Cloud Run. An asynchronous analysis pipeline cut evaluation latency by 60%, streaming models over 500MB directly from GCS. Ships a Causal Fairness Engine and a CI/CD fairness gate enforcing a 0.8 disparate-impact threshold in under two minutes. | Next.js · FastAPI · GCP · Gemini · Vertex AI | <img src="https://img.shields.io/github/stars/Pratham-Dusane/VisionAI?style=flat-square&labelColor=1c1c1c&color=58A6FF" /> <img src="https://img.shields.io/github/last-commit/Pratham-Dusane/VisionAI?style=flat-square&labelColor=1c1c1c&color=58A6FF" /> |
-| **[Rotica](https://github.com/Pratham-Dusane/Rotica-App)** | Sponsored full-stack food subscription platform with Razorpay payments, Firebase Auth, and live order tracking — over ₹30,000 processed. Paired with a role-based operations dashboard serving 80+ admins at 90% test coverage. | React · Node.js · Kotlin · PHP · GCP · MySQL | <img src="https://img.shields.io/github/stars/Pratham-Dusane/Rotica-App?style=flat-square&labelColor=1c1c1c&color=58A6FF" /> <img src="https://img.shields.io/github/last-commit/Pratham-Dusane/Rotica-App?style=flat-square&labelColor=1c1c1c&color=58A6FF" /> |
+| **[VisionAI](https://github.com/Pratham-Dusane/VisionAI)** | Distributed ML observability platform on Cloud Run. An asynchronous analysis pipeline cut evaluation latency by 60%, streaming models over 500MB directly from GCS. Ships a Causal Fairness Engine and a CI/CD fairness gate enforcing a 0.8 disparate-impact threshold in under two minutes. | Next.js · FastAPI · GCP · Gemini · Vertex AI | <img src="https://img.shields.io/github/last-commit/Pratham-Dusane/VisionAI?style=flat-square&labelColor=1c1c1c&color=58A6FF" /> |
+| **[Rotica](https://github.com/Pratham-Dusane/Rotica-App)** | Sponsored full-stack food subscription platform with Razorpay payments, Firebase Auth, and live order tracking — over ₹30,000 processed. Paired with a role-based operations dashboard serving 80+ admins at 90% test coverage. | React · Node.js · Kotlin · PHP · GCP · MySQL | <img src="https://img.shields.io/github/last-commit/Pratham-Dusane/Rotica-App?style=flat-square&labelColor=1c1c1c&color=58A6FF" /> |
 | **Axiom SAR System** | Agentic AI for Automated Suspicious Activity Reports, architected for a 4× reduction in operational cost and a 50× productivity gain by autonomously synthesizing and evaluating report data. | Python · FastAPI · LangChain · LangGraph · Gemini | — |
-| **[UnifyOps](https://github.com/Pratham-Dusane/UnifyOps)** | Operations tooling built around unified workflow automation. | Python | <img src="https://img.shields.io/github/stars/Pratham-Dusane/UnifyOps?style=flat-square&labelColor=1c1c1c&color=58A6FF" /> <img src="https://img.shields.io/github/last-commit/Pratham-Dusane/UnifyOps?style=flat-square&labelColor=1c1c1c&color=58A6FF" /> |
-| **[CleanEDI](https://github.com/Pratham-Dusane/CleanEDI)** | EDI data cleaning and transformation utility. | JavaScript | <img src="https://img.shields.io/github/stars/Pratham-Dusane/CleanEDI?style=flat-square&labelColor=1c1c1c&color=58A6FF" /> <img src="https://img.shields.io/github/last-commit/Pratham-Dusane/CleanEDI?style=flat-square&labelColor=1c1c1c&color=58A6FF" /> |
+| **[UnifyOps](https://github.com/Pratham-Dusane/UnifyOps)** | Operations tooling built around unified workflow automation. | Python | <img src="https://img.shields.io/github/last-commit/Pratham-Dusane/UnifyOps?style=flat-square&labelColor=1c1c1c&color=58A6FF" /> |
+| **[CleanEDI](https://github.com/Pratham-Dusane/CleanEDI)** | EDI data cleaning and transformation utility. | JavaScript | <img src="https://img.shields.io/github/last-commit/Pratham-Dusane/CleanEDI?style=flat-square&labelColor=1c1c1c&color=58A6FF" /> |
 
 <div align="center">
   <a href="https://github.com/Pratham-Dusane?tab=repositories">
@@ -203,36 +191,31 @@ Open to conversations about agentic system design, GCP Cloud Run, and inference 
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Pratham-Dusane&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Pratham-Dusane&theme=default&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
-    <img width="70%" src="https://streak-stats.demolab.com?user=Pratham-Dusane&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Contribution streak" />
-  </picture>
-</div>
-
-### GitHub Metrics
+## Activity & Metrics
 
 <!--
   These SVGs are generated by .github/workflows/metrics.yml and committed to this
-  repo, so they are served from raw.githubusercontent and cannot break the way
-  the vercel-hosted widgets did. They will 404 until the workflow runs once.
-  Actions tab → "GitHub Metrics" → Run workflow.
+  repo, so they are served from raw.githubusercontent and cannot break the way the
+  vercel-hosted widgets did. They 404 until the workflow runs once:
+  Actions tab -> "GitHub Metrics" -> Run workflow.
 -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics.base.dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./metrics.base.light.svg" />
-    <img width="47%" src="./metrics.base.dark.svg" alt="GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics.languages.dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./metrics.languages.light.svg" />
-    <img width="47%" src="./metrics.languages.dark.svg" alt="Most used languages" />
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./metrics.activity.dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./metrics.activity.light.svg" />
+  <img width="88%" src="./metrics.activity.dark.svg" alt="Contribution calendar and code volume" />
+</picture>
+
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./metrics.languages.dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./metrics.languages.light.svg" />
+  <img width="88%" src="./metrics.languages.dark.svg" alt="Language breakdown and commit habits" />
+</picture>
+
 </div>
 
 ---
