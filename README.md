@@ -200,15 +200,15 @@ Open to conversations about agentic system design, GCP Cloud Run, and inference 
 
   Deliberately excludes any contribution calendar -- GitHub renders that
   natively on the profile page directly above this README.
+
+  One file, no dark/light pair: lowlighter/metrics has no theme option, so the
+  two variants were byte-for-byte identical. The default palette (grey text,
+  blue headings, transparent background) reads on both themes.
 -->
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./metrics.dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./metrics.light.svg" />
-  <img width="58%" src="./metrics.dark.svg" alt="Language distribution, code volume, and commit patterns" />
-</picture>
+<img width="58%" src="./metrics.svg" alt="Language distribution and code volume across repositories" />
 
 </div>
 
